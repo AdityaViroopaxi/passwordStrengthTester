@@ -1,0 +1,8 @@
+{
+  "name": "simple-password-checker",
+  "version": "1.0.0",
+  "main": "password-check.js",
+  "scripts": {
+    "start": "node password-check.js"
+  }
+}
